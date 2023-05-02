@@ -1,0 +1,71 @@
+.sc-fbYMXx
+{
+    height: fit-content;
+    overflow-x: hidden !important;
+    padding: 100px !important;
+}
+
+.VendorInfo {
+    width: 80%;
+    height: 30px;
+    margin-bottom: 2px;
+  }
+  tr {
+    height: 90px;
+  }
+  .cell-input {
+    height: 40px;
+    text-align: center;
+  }
+  .label {
+    margin: 10px;
+  }
+  .info-container {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .getAssetById {
+    display: flex;
+  }
+
+  
+
+  .btn_reset
+  {
+    display: block;
+    padding: 15px 30px 15px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: azure;
+
+    margin-left: 150px;
+    margin-top: 400px;
+  }
+
+  .btn_create
+  {
+    display: block;
+    padding: 15px 30px 15px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: azure;
+
+    margin-top: 400px;
+  }
+
+  .vendorInfoDist
+  {
+    max-width: 20%;
+  }
+  /* .sc-fbYMXx ggwaAu {
+    border-radius: 5px;
+    padding: 10px;
+    height: 100vh;
+    overflow: scroll;
+    background-image: url("C:\Users\user\Desktop\FYP WEB MAIN - Copy\fyp-web-main\Philter\src\components\images\uibgbg.png");
+} */
+.back
+{
+    background-image: url("C:\Users\user\Desktop\FYP WEB MAIN - Copy\fyp-web-main\Philter\src\components\images\uibgbg.png");   
+}
